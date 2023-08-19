@@ -1,9 +1,11 @@
 body {
     background-color: black;
-    background-image: url(Vector.png);
+    background-image: url(./src/img/Vector.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
+    width: 100%;
+    height: 400px;
 
 }
 
@@ -13,7 +15,7 @@ body {
 
 .img-quadrado {
     position: fixed;
-    top: 65%;
+    top: 60%;
     left: 18%;
     width: 30px;
     height: 30px;
@@ -154,6 +156,14 @@ footer {
 
 }
 
+.imagem_seta {
+    position: fixed;
+    top: 90%;
+    left: 48%;
+    width: 50%;
+    height: 50%;
+}
+
 .texto-direita {
     margin-left: 30%;
     margin-right: 10%;
@@ -175,4 +185,12 @@ footer {
     border-color: white;
     color: white;
     border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imagem_botao {
+    margin-right: 8%;
 }
