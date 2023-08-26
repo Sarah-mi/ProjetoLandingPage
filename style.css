@@ -17,35 +17,35 @@ body {
     position: fixed;
     top: 60%;
     left: 18%;
-    width: 30px;
-    height: 30px;
+    width: 30%;
+    height: 30%;
     
 }
 
 .img-quadrado2 {
     position: absolute;
     top: 0;
-    left: 250px;
-    width: 30px;
-    height: 30px;
+    left: 20%;
+    width: 30%;
+    height: 30%;
     
 }
 
 .img-longo {
     position: absolute;
-    top: 48;
-    left: 1022px;
-    width: 200px;
-    height: 260px;
+    top: 48%;
+    left: 75%;
+    width: 20%;
+    height: 26%;
     
 }
 
 .img-pilar {
     position: absolute;
     top: 347px;
-    left: 828px;
-    width: 280px;
-    height: 329px;
+    left: 70%;
+    width: 28%;
+    height: 33%;
     
 }
 
